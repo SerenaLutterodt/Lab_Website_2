@@ -1,3 +1,6 @@
+// Serena Evans-Lutterodt
+//Worked with Gary H.
+
 /*
 	players is an array to hold each player's information.
 	Fields:
